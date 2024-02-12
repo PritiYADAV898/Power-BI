@@ -1,1 +1,2 @@
 # Power-BI
+HR analytics dashboard using Power BI, offering comprehensive visualization of key HR metrics such as employee turnover, recruitment effectiveness, and workforce diversity. Integrated interactive features to facilitate deep data exploration and decision-making. Demonstrated expertise in leveraging Power BI's capabilities to deliver actionable insights for strategic workforce planning and talent management."
